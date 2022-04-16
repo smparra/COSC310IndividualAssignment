@@ -1,4 +1,4 @@
-# COSC310IndividualAssignment
+# COSC 310 Individual Assignment
 
 Chatbot for Individual Assignment
 
